@@ -1,5 +1,5 @@
 # Bing_News_Analytics
-In this project, I have created an end to end solution for analyzing the binge latest news data. I have used the microsoft fabric for all the tools. Here's a breakdown of the journey:
+In this project, I have created an end to end solution for analyzing the bing latest news data. I have used the microsoft fabric for all the tools. Here's a breakdown of the journey:
 
 1️⃣ Data Ingestion: Created pipeline in data Factory which connects to Bing API and ingest all the latest news articles as a raw json structure to the lakehouse.
 
