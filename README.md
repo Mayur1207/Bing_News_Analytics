@@ -9,6 +9,5 @@ In this project, I have created an end to end solution for analyzing the bing la
 
 4️⃣ PowerBI Dashboard - Created two page report one page was autocreated by powerbi and then I created a new page which is our main news dashboard based on requirements in this dashboard I have configuration in a way that every time when I open this report only the latest news that are published in the last 24 hours will be displayed.
 
-5️⃣ Final ADF Pipeline - Created a pipeline in data Factory to connect all the task end to end and scheduled the pipeline to run every single day exactly at 6:00 a.m.
+5️⃣ Final ADF Pipeline - Created a pipeline in data Factory to connect all the task end to end.
 
-6️⃣ Alerts Integration: Integrated alerts into Microsoft Teams, ensuring real-time notifications for updates.
